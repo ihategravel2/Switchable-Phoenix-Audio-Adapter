@@ -25,3 +25,7 @@ You can probably use any one you want. They use the same design anyways.
 - TRS - https://www.lcsc.com/product-detail/C692542.html?s_z=n_C692542
 Can also probaly use a bunch of other ones that fit the same footprint. 
 
+
+# License
+
+I'm using a MIT license but if wish to sell this please contact me first.
