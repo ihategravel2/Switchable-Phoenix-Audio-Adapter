@@ -19,8 +19,9 @@ This is part of the extron spec.
 
 ## Parts List:
 
-Dip Switch - https://www.lcsc.com/product-detail/C126888.html
+- Dip Switch - https://www.lcsc.com/product-detail/C126888.html
 You can probably use any one you want. They use the same design anyways.
-3.5mm TRS - https://www.lcsc.com/product-detail/C692542.html?s_z=n_C692542
+3.5mm 
+- TRS - https://www.lcsc.com/product-detail/C692542.html?s_z=n_C692542
 Can also probaly use a bunch of other ones that fit the same footprint. 
 
